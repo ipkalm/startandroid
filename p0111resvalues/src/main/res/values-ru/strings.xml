@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ресурсы значения</string>
+    <string name="plain_text">Привет, бро!&#8230;</string>
+</resources>
